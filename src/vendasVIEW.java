@@ -109,7 +109,7 @@ public class vendasVIEW extends javax.swing.JFrame {
 
     private void btnVendasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVendasActionPerformed
         listagemVIEW lista = new listagemVIEW();
-        lista.setVisible(true);
+        lista.setVisible(true);           
     }//GEN-LAST:event_btnVendasActionPerformed
 
     /**
